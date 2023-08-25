@@ -1,6 +1,6 @@
 # Creating an ERC20 Token using OpenZeppelin Interfaces
 
-This project involves the development of a Solidity smart contract that leverages OpenZeppelin interfaces to create an ERC20 token contract named 'Rizzlers' (with the symbol 'RIZZ'). The contract is then deployed using the Hardhat framework.
+This project involves the development of a Solidity smart contract that leverages OpenZeppelin interfaces to create an ERC20 token contract named 'Sritam' (with the symbol 'SRI'). The contract is then deployed using the Hardhat framework.
 
 ## Description
 
